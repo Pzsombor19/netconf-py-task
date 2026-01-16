@@ -6,12 +6,11 @@ Ez a projekt egy egyszerű Python programot tartalmaz, amely egy NetConf szerver
 - A program futáskor bekéri a NetConf szerver IP címét
 - NetConf kapcsolódás létrehozása
 - Konfiguráció lekérdezése a szerverről
-- Egyszerű, könnyen érthető felépítés
 
 ## Követelmények
-- Python 3.x
+- Python 3.10.+
 - ncclient Python csomag
 
 A szükséges csomag telepítése:
-```bash
+
 pip install ncclient
